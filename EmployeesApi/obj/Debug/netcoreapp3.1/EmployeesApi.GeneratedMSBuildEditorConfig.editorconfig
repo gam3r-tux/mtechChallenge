@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = com.test.employees.api
+build_property.ProjectDir = C:\projects\dotnet\asp.net\EmployeesApi\EmployeesApi\
